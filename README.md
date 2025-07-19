@@ -60,7 +60,7 @@ Welcome to **YouSpot**, a revolutionary decentralized streaming platform leverag
 
 
 ## 📩 Contact & Community
-For queries or collaborations, reach out via **divyanshupandey9329@gmail.com or divyagupta20042004@gmail.com or hitanshijain835@gmail.com** .
+For queries or collaborations, reach out via **divyagupta20042004@gmail.com** .
 
 🚀 **Join the Web3 revolution with YouSpot!** 🎬
 
