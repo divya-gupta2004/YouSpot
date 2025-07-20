@@ -2,7 +2,7 @@
 
 # YouSpot Frontend
 
-**Deployed Frontend : https://Divyanshu9329.github.io/VP**
+**Deployed Frontend : https://divya-gupta2004.github.io/YouSpot**
 (Click on Logo in Header to Run using API)
 
 Welcome to **YouSpot**, a revolutionary decentralized streaming platform leveraging **Blockchain, zk-SNARKs, AI, NFTs, and XRPL** to enable secure, private, and monetized content distribution.
