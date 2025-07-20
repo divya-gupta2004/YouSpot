@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/YouSpot/static/css/main.7064deb2.css",
+    "main.js": "/YouSpot/static/js/main.f59d159f.js",
+    "index.html": "/YouSpot/index.html",
+    "main.7064deb2.css.map": "/YouSpot/static/css/main.7064deb2.css.map",
+    "main.f59d159f.js.map": "/YouSpot/static/js/main.f59d159f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7064deb2.css",
+    "static/js/main.f59d159f.js"
+  ]
+}
